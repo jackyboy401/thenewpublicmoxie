@@ -7,6 +7,7 @@ I ask you provide the Wifi Details so I can generate the qr code, because it is 
 will be deleted from my computer right after the codes are generated, and my recently deleted will be cleared immediately.
 
 2. My computer makes a beep when it goes through, and I check it every day at the following times:
+
 Weekends:
 10 am,
 12 pm,
