@@ -8,26 +8,26 @@ will be deleted from my computer right after the codes are generated, and my rec
 
 2. My computer makes a beep when it goes through, and I check it every day at the following times:
 Weekends:
-10 am
-12 pm
-2 pm
-4 pm
-6 pm
-8 pm
+10 am,
+12 pm,
+2 pm,
+4 pm,
+6 pm,
+8 pm,
 and one time before i go to bed.
 
 Week days:
-7:30 am
-one time before I go to school
-one time after school
-4 pm
-6 pm
-8 pm
+7:30 am,
+one time before I go to school,
+one time after school,
+4 pm,
+6 pm,
+8 pm,
 and one time before i go to bed.
 
-Unable to check:
+[Unable to check:
 10 pm - 9 am (weekends)
-9 pm - 7:30 am (weekdays)
+9 pm - 7:30 am (weekdays)]
 
 If I check it, and I see your email with #PublicMoxie or #ReviveMoxie (and it has to have one of those, you can enter both if your desperate, entering none will not get you a qr.) I will start
 generating the wifi qr, and once that's generated, I will send over the wifi QR code and the migration QR code to migrate your bot to my server. Please check from an email from jackyboy401@icloud.com
