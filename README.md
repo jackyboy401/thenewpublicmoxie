@@ -48,4 +48,7 @@ discovered this.
 If you have any problems, questions, concerns, or requests to edit your Moxie's face, or settings, please email me with #ihaveaproblem and I will send you a google chat link where you can talk to me
 with any other people who have problems. (Not including #ihaveaproblem will result in your quest getting ignored, because I filter my mail by those hashtags.) Have fun, and remember to stay safe! I hope this helped in a way!
 
+NOTICE: If you scan the WiFi QR Code, and after you see the Moxie Robot icon QR code, but there is no OPENMOXIE or EMBODIEDPRODUCTION text, than your Moxie Robot is not compatable. In order to make it compatable, you need to
+send your robot to Techshop 82's Openmoxie upgrade Service at: [https://techshop82.com/shop/moxie-upgrade-service/?srsltid=AYCX9vLwxqjwHBKL_jnXv5RqQVEUbfX8Qc8T9NI_SM8q-p0G-Kha8QnW](url)
+
 YouTube: jackyboy401_yt
