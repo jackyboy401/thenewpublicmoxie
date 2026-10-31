@@ -51,4 +51,6 @@ with any other people who have problems. (Not including #ihaveaproblem will resu
 NOTICE: If you scan the WiFi QR Code, and after you see the Moxie Robot icon QR code, but there is no OPENMOXIE or EMBODIEDPRODUCTION text, than your Moxie Robot is not compatable. In order to make it compatable, you need to
 send your robot to Techshop 82's Openmoxie upgrade Service at: [https://techshop82.com/shop/moxie-upgrade-service/?srsltid=AYCX9vLwxqjwHBKL_jnXv5RqQVEUbfX8Qc8T9NI_SM8q-p0G-Kha8QnW](url)
 
+Please check notice.md for solutions or fixes.
+
 YouTube: jackyboy401_yt
