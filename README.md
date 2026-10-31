@@ -46,6 +46,6 @@ following phrase: "Moxie, Please wake up." Please give her around 10 seconds for
 discovered this.
 
 If you have any problems, questions, concerns, or requests to edit your Moxie's face, or settings, please email me with #ihaveaproblem and I will send you a google chat link where you can talk to me
-with any other people who have problems. Have fun, and remember to stay safe! I hope this helped in a way!
+with any other people who have problems. (Not including #ihaveaproblem will result in your quest getting ignored, because I filter my mail by those hashtags.) Have fun, and remember to stay safe! I hope this helped in a way!
 
 YouTube: jackyboy401_yt
